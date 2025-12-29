@@ -21,7 +21,7 @@ Under the `Apache 2.0` license, feel free to use, copy and modify this.
 
 * Version 0.2 : (wip)
 	* Can now modify data in fields and Json objects
-   	* Replacing DottePath for a Json query system, used to perform more accurate queries on wanted fields
+   	* Replacing DottedPath for a query system, used to perform more accurate queries
 
 ## Changelogs
 
